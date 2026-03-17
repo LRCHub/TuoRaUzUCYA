@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プロディジーの憂愁",
+  "base_artist": "buzzG Feat. GUMI",
+  "createdAt": "2026-03-17T12:29:47.141648Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロディジーの憂愁",
+      "artist": "buzzG Feat. GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_プロディジーの憂愁_buzzG_Feat._GUMI.txt"
+    }
+  ]
+}
